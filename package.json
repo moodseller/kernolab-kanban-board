@@ -29,7 +29,7 @@
     "mobx": "^5.15.0",
     "mobx-react": "^5.4.4",
     "mobx-utils": "^5.5.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.9.3",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "react": "^16.12.0",
